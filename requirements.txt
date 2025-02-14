@@ -1,0 +1,5 @@
+aiogram
+gspread
+pandas
+schedule
+oauth2client
